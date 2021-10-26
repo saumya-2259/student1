@@ -9,6 +9,5 @@ void main()
 	printf("no of one credit courses completed:%d",one_credit);
 	printf("name of one credit course:%c",onecredit_name);
 	printf("no of value added courses completed:%d",value_added);
-	printf("name of value added courses:%c",valueadded_name);
 }
 
